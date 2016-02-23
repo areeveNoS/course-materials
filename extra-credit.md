@@ -2,10 +2,16 @@
 
 - (5 points) demonstrate a substantial working knowledge of the linux command
   line
+  
+  the linux command line is a type of command line interface, called a unix shell. Linux and OSX uses a BASH (Bourne again     shell) implementaion of the unix shell.
 
 - (5 points) demonstrate a substantial working knowledge of vim
+  
+  VIM (Vi IMproved) is a text editor. It can be used from the command line interface.
 
 - (5 points) demonstrate a substantial working knowledge of make
+  
+  Make is a build automation tool that builds executables from source files by reading Makefiles which specify how to derive  the target program. Make files are written in a type of declarative language.
 
 
 -------------------------------------------------------------------------------
